@@ -1,0 +1,1357 @@
+[
+  {
+    "question": "Which three are the most common types of eCommerce?",
+    "content": [
+      "Business-to-Business (B2B), Business-to-Consumer (B2C), Consumer-to-Consumer (C2C)",
+      "Business-to-Business (B2B), Consumer-to-Business (C2B), Consumer-to-Consumer (C2C)",
+      "Business-to-Business (B2B), Business-to-Consumer (B2C), Consumer-to-Business (C2B)",
+      "Business-to-Consumer (B2C), Consumer-to-Consumer (C2C), Consumer-to-Business (C2B)"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Who can supply a Web server, network bandwidth, and advanced Web & database connectivity?",
+    "content": [
+      "An Internet Service Provider (ISP)",
+      "A co-location hosting solution (CoLo)",
+      "A cloud service provider (CSP)",
+      "A virtual server hosting solution (VSH)"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What two attributes must be included for the form to function in creating an HTML form?",
+    "content": [
+      "the Action & Method attributes",
+      "the Input & Select attributes",
+      "the Select & Submit attributes",
+      "the Input & Submit attributes"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which attribute of the form field elements organizes the user's information into name=value pairs to a database using a CCI script?",
+    "content": ["Value", "Name", "Method", "ID"],
+    "correct": 1
+  },
+  {
+    "question": "The web2.0 'Trifecta' elements are: ",
+    "content": [
+      "HTML, CSS, and JavaScript",
+      "HTML, JavaScript and XML",
+      "CSS, XML, and JavaScript",
+      "CSS, XML, and JavaScript"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is an empty or 'Standalone' tag?",
+    "content": [
+      "Tags that have nothing in them. Ex. <>",
+      "Tags that have both open and closing tags. Ex. <p></p>",
+      "There is no such object in HTML5",
+      "Tags that only have one tag, it doesn’t contain any content. Ex <br />, <hr />"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which set of standards developed by the W3C Web Accessibility Initiative (WAI) project provides a universal set of guidelines providing accessibility for all Web users?",
+    "content": [
+      "User Agent Accessibility Guidelines",
+      "Web Content Accessibility Guidelines",
+      "W3C Authoring Tool Accessibility Guidelines",
+      "Section 508 of the Rehabilitation Act"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is true of the Semantic Web?",
+    "content": [
+      "its standards promote common data formats and exchange protocols",
+      "it allows for custom tags in HTML5",
+      "it does not require the three Trifecta elements",
+      "it supports custom HTML in different native languages"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following <video> formats are supported in HTML5?",
+    "content": [
+      "Quicktime and AVI",
+      "JPEG2000 and SVG",
+      "Ogg, webM, and MP4",
+      "Ogg, wav, MP4"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following CSS rule positions an image to right of text on a page?",
+    "content": [
+      ".column {float: inherit; padding: 15px;}",
+      "img { float: right; margin-left: 0px}",
+      "#float {float: inherit; margin-right: 20px}",
+      "div {float: none; padding: 15px;}"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following do many GUI HTML editors oﬀer that text editors do not? ",
+    "content": [
+      "Live Preview of pages",
+      "Ability to modify code manually",
+      "Real-time updating of HTML code",
+      "Automated user-accessibility auditing"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is Responsive Design?",
+    "content": [
+      "a series of design guidelines for mobile apps",
+      "a mobile-only set of W3C development standards",
+      "a method of web design that encompasses multiple platforms",
+      "CAD design standards for autonomous vehicles"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A selector can indicate that a CSS rule applies to multiple elements. Which of these examples shows the correct method?",
+    "content": [
+      "h1 h2 h3 {font-family: \"Times\",Georgia,serif}",
+      "H1 H2 H3 {font-family: \"Times\",Georgia,sans-serif}",
+      "h1, h2, h3 {font-family: \"Times\",Georgia,serif}",
+      "H1; H2; H3 {font-family: \"Times\",Georgia,sans-serif}"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is an example of a CSS ID?",
+    "content": [".top { }", "top { }", "!top { }", "#top { }"],
+    "correct": 3
+  },
+  {
+    "question": "What is the functional purpose of HTML in web design?",
+    "content": [
+      "It is a supporting markup language to store data",
+      "It used for making complex or fancy webpage content",
+      "Browsers decode HTML to render a webpage",
+      "It is the protocol to exchange files over the internet"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is an example of shared web hosting?",
+    "content": [
+      "The server hosting your ﬁles for your web site runs in a virtual environment",
+      "Your server doesn’t run on an actual machine, but on a cloud or network of computers. If one computer the cloud fails the others take over the processing needs",
+      "You own a physical server at your place of business or home that is only used by you to host your website",
+      "Your server runs your site the same places as many other sites and services, sharing a ﬁxed amount of resources, processing power, memory, and hard drive space with other users."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is CGI and what are some languages you can use for its implementation?",
+    "content": [
+      "Common Gateway Interface (PhP, Perl, ASP)",
+      "Common Gateway Interaction (HTML, CSS, JS)",
+      "Computer Generated Imagery (JPEG, PNG, SVG)",
+      "Cognitive Guided Instruction (EyE, SnD, TuCH)"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following form code creates a mutually exclusive list of items?",
+    "content": [
+      "<input type=\"checkbox\" name=\"payment\" value=\"visa\">Visa",
+      "<select type=\"checkbox\" name=\"payment\" value=\"visa\">Visa",
+      "<select type=\"radio\" name=\"payment\" value=\"visa\">Visa",
+      "<input type=\"radio\" name=\"payment\" value=\"visa\">Visa"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "When creating forms what is true of client-server communication?",
+    "content": [
+      "only a *.cgi ﬁle can process form data",
+      "client-side scripts are a secure way of processing form data",
+      "common server scripting languages include PhP, ASP and Perl",
+      "forms are not possible on mobile devices"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following heading tags displays the largest text?",
+    "content": ["h2", "h5", "h4", "h3"],
+    "correct": 0
+  },
+  {
+    "question": "Which visual element does not change when applying Heading tags?",
+    "content": [
+      "the text kerning",
+      "the font-size property",
+      "the font-family property",
+      "the font-weight property"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the Document Object Model (DOM)?",
+    "content": [
+      "the backend of every web browser",
+      "a popular programming language for mobile apps",
+      "a cross-platform and language-independent API",
+      "used to develop SQL databases"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is Secure Socket Layer (SSL)?",
+    "content": [
+      "a payment gateway",
+      "high-level encryption protocol",
+      "used in home security systems",
+      "replaces TCP/IP on the Network layer"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What attribute would you apply to the <audio> element to play a ﬁle over & over again without stopping?",
+    "content": [
+      "loop=\"autoplay\"",
+      "autoplay=\"loop\"",
+      "loop=\"loop\"",
+      "autoplay=\"autoplay\""
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which tag pair is used for embedding video and interactive maps in HTML?",
+    "content": [
+      "<video> </video>",
+      "<map> </map>",
+      "<iframe> </iframe>",
+      "<embed> </embed>"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a true statement in order to use a GUI HTML editor to preview the page as you develops it?",
+    "content": [
+      "You can preview the page with only the default browser on your computer or device",
+      "You can preview the page with a browser emulator in the GUI editor but not a real browser",
+      "You can preview the page with all the browsers installed on your computer or device",
+      "You will receive an error because GUI editors cannot preview pages in a Web browser"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is FTP and what is its purpose?",
+    "content": [
+      "File Troubleshooting Protocol, used for syntax checking",
+      "File Transmit Protocol, used for secure email",
+      "File Type Protocol, used to determine MIME types",
+      "File Transport Protocol, used for web page publishing"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Here is a simple CSS rule: p {font-size: 14em} What part of the CSS rule-set is 'font-size'?",
+    "content": ["selector", "value", "Property", "numerator"],
+    "correct": 2
+  },
+  {
+    "question": "What is web graphics interlacing?",
+    "content": [
+      "a way to convert graphic formats",
+      "color substitution for RGB",
+      "a scaling technology for SVG",
+      "a method of image encoding"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which characteristic of XML indicates it is an extensible markup language?",
+    "content": [
+      "XML can have element tags and self-closing tags",
+      "The set of XML tags is unlimited",
+      "XML tags can have several parameters",
+      "XML tags can have attributes"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is true of Software as a Service (SaaS)?",
+    "content": [
+      "works only in speciﬁc browsers",
+      "requires a private Intranet and VPN",
+      "is not supported in web2.0",
+      "is a software licensing and delivery model"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is a Web Application Framework?",
+    "content": [
+      "a GUI Editor you use for building pages",
+      "sets of software tools for development purposes",
+      "the network structure for web hosting",
+      "server scripts that support shared hosting"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Form validation is typically used for the following purposes:",
+    "content": [
+      "Checking credit card numbers and client phone number",
+      "Verify the address and zip code of a new customer",
+      "To validate the correct data type for an input field",
+      "Confirm a client has clicked the Submit button"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which line of HTML code creates a multiple-option select list in a Web form?",
+    "content": [
+      "<input type=\"select\" name=\"work\" multiple=\"multiple\" size=\"4\"/>",
+      "<select multiple=\"selectlist\" name=\"work\" size=\"4\">",
+      "<input type=\"select\" name=\"work\" multiple=\"yes\" size=\"4\"/>",
+      "<select name=\"work\" multiple=\"multiple\" size=\"4\">"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which hyperlink attribute defines where a link will open in a browser?",
+    "content": ["path", "target", "name", "alt"],
+    "correct": 1
+  },
+  {
+    "question": "The following are the kinds of lists available in HTML5:",
+    "content": [
+      "numbered & bulleted lists",
+      "lettered and numbered lists",
+      "unordered and ordered lists",
+      "bulleted and lettered lists"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the diﬀerence between the Internet and the World Wide Web? ",
+    "content": [
+      "The Web is the content, the Internet the delivery infrastructure",
+      "The Internet is the content, the Web the delivery infrastructure",
+      "One is public, the other is private",
+      "No difference, they are both the same"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "AJAX is a set of technologies used in developing and delivering web content. Which of the following is not true?",
+    "content": [
+      "xHTML is based on the HTML4.0 speciﬁcation",
+      "The Document Object Model is deprecated in web2.0",
+      "XML is used to display tabular data",
+      "HTML5 allows for online collaboration"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the correct HTML tag for attaching an external style sheet to an HTML page?",
+    "content": [
+      "<link rel=\"stylesheet\" type=\"text/css\" href=\"css/mystyle.css\">",
+      "<style>css/stylesheet.css</stylesheet>",
+      "<style> rel=\"stylesheet\" href=\"css/stylesheet.css\"</style>",
+      "<link relative=\"stylesheet\" type=\"text/css\" href=\"css/stylesheet.css\">"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The HTML5 canvas API supports only which shape?",
+    "content": ["rectangle", "circle", "polygon", "line"],
+    "correct": 0
+  },
+  {
+    "question": "W3C Markup Validation Service provides:",
+    "content": [
+      "Accessibility checking for mobile sites",
+      "Javascript debugging",
+      "HTML and CSS syntax checking",
+      "HTML5 form validation"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "When optimizing content on mobile sites:",
+    "content": [
+      "move the most important content to the footer of the site",
+      "reduce the amount of content to reduce page scrolling",
+      "include a sitemap for content searching",
+      "use a Search bar instead of hamburger menus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which Web-ready image formats support interlacing? ",
+    "content": [
+      "JPEG and PNG",
+      "GIF 87a, GIF 89a and PNG",
+      "GIF 89a and JPEG",
+      "GIF 87a, GIF 89a and JPEG"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the most commonly used CSS properties for font-related selectors? ",
+    "content": [
+      "font, font-color, font-size",
+      "font-family, font-size, color",
+      "font-family, font-color, font",
+      "font-type, font-size, color"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which HTML tag is used to indicate the first heading level in a web page?",
+    "content": ["<first>", "<head>", "<h1>", "<h0>"],
+    "correct": 2
+  },
+  {
+    "question": "What is the default name of some preconfigured popular Web servers",
+    "content": [
+      "home or default",
+      "index or welcome",
+      "welcome or default",
+      "default or index"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Web analytics are: ",
+    "content": [
+      "used to determine the audience of a website during the Planning stage",
+      "a measurement, reporting of web data to understand and optimize web usage",
+      "a measurement of the speed & performance of a web site",
+      "used as a design tool to structure a web site"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which <input> element would allow the user to upload a ﬁle to your Web server?",
+    "content": [
+      "<input type=\"ﬁle\" name=\"myFile\">",
+      "<input ﬁle=\"put\" name=\"myFile\">",
+      "<input type=\"upload\" name=\"myFile\">",
+      "<input value=\"place\" name=\"myFile\">"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following form elements will create a password-protected element?",
+    "content": [
+      "<input type=\"text\" id=\"username\" name=\"username\">",
+      "<input type=\"password\" id=\"pwd\" name=\"pwd\">",
+      "<input type=\"hidden\" id=\"none\" name=\"none\">",
+      "<input type=\"checkbox\" id=\"check\" name=\"check\">"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which tag’s purpose is to contain a website’s visible content? ",
+    "content": ["<head>", "<body>", "<title>", "<meta>"],
+    "correct": 1
+  },
+  {
+    "question": "What is the correct method for attaching an external style sheet to an HTML page?",
+    "content": [
+      "<stylesheet>link.stylesheet.css</stylesheet>",
+      "<link rel=\"stylesheet\" type=\"text/css\" href=\"css/mystyle.css\">",
+      "<style src=\"stylesheet\" type=\"text/css\" href=\"css/stylesheet.css\"></style>",
+      "<attach rel=\"stylesheet\" href=\"css/stylesheet.css\">"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is cloud computing?",
+    "content": [
+      "is the same as Enterprise computing",
+      "is based on the Client-Server model",
+      "uses a network of remote servers",
+      "is the same as Shared hosting"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is platform-independent?",
+    "content": [
+      "All web browsers are designed the same",
+      "an HTML-coded interface will be equally available to any operating system",
+      "Only open-source software applications are supported",
+      "Fonts will appear the same on all platforms"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the primary use of HTML5 canvas?",
+    "content": [
+      "insert a map on a page",
+      "draw graphics, on the ﬂy, via JavaScript",
+      "create interactive multimedia",
+      "build interactive forms"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which line of HTML code deﬁnes an image map's regions?",
+    "content": [
+      "<area shape=\"rect\" coords=\"0,0,75,75\" href=\"home.html\" alt=\"home\"/>",
+      "<map area=\"rect\" coords=\"0,0,75,75\" href=\"home.html\" alt=\"home\"/>",
+      "<img area=\"link\" shape=\"0,0,75,75\" href=\"home.html\" alt=\"home\"/>",
+      "<imagemap shape=\"rect\" href=\"home.html\" alt=\"home\"/>"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is AJAX?",
+    "content": [
+      "an HTML text editor",
+      "a method for searching the web",
+      "the successor to dHTML",
+      "a protocol used for data transmission"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is SaaS?",
+    "content": [
+      "a software licensing and delivery model",
+      "an online databasing service",
+      "a method for searching the web",
+      "a protocol used for data transmission"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "When applying font faces in a CSS rule, which of these examples show the correct method?",
+    "content": [
+      "h1{char-family: \"Times New Roman\", sans-serif;}",
+      ".char [text-family: \"Times New Roman\", serif;]",
+      "#title (text-family: \"Times New Roman\", sans-serif;)",
+      "p {font-family: \"Times New Roman\", serif;}"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is the diﬀerence between padding and margin assigned to an HTML element?",
+    "content": [
+      "Margin is the inner space of an element, padding is the outer space of an element",
+      "Margin is the outer space of an element, padding is the inner space of an element",
+      "Margin is the right & lefthand sides of an element, padding is the top & bottom",
+      "Padding is the left & righthand sides of an element, margin is the bottom & top"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which option indicates a correctly formatted comment for an HTML file?",
+    "content": [
+      "<-- this is a section -->",
+      "<-- this is a section --/>",
+      "<!-- this is a section --/>",
+      "<!-- this is a section -->"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What following practices does traditional marketing concepts applies to Web-based technologies:",
+    "content": [
+      "Branding, Audience and Demographics",
+      "SEO, Pay per Click and Web Analytics",
+      "Mindshare, Target Market and SEO",
+      "Web Analytics, Aggregator and Niche"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Key elements & benefits of branding on the Internet include:",
+    "content": [
+      "a company logo is the most important element of branding",
+      "is mainly used for product or company recognition",
+      "a brand should be unique, attractive and memorable",
+      "are restricted to eCommerce on the web"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the difference between the GET and POST form attribute values?",
+    "content": [
+      "GET has no size limitations, and can be used to send large amounts of data",
+      "Form submissions with POST can be bookmarked",
+      "GET is good for non-secure data, like query strings in Google",
+      "The default HTTP method when submitting form data is POST"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the purpose of code validation?",
+    "content": [
+      "to Fix the errors in your code",
+      "to Compile web page code for server use",
+      "to Verify the Responsive Design characteristics of a web site",
+      "to Check your code against syntax and accessibility standards"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The W3C provides the technical guidelines for all aspects of information exchange on the Web, including:",
+    "content": [
+      "Equipment design guidelines for manufacturers",
+      "HTML, CSS and XML standards",
+      "Legal requirements for web browser software;",
+      "Functions allowed in Software as a Service providers"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following best describes the function of a protocol? ",
+    "content": [
+      "is a set of software tools for web development",
+      "is used for secure payment transactions",
+      "is a set of rules or procedures for transmitting data between electronic devices",
+      "is a 3rd-party Certificate Authority for banking"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Using coordinates \"90,45,30 on a circular hot spot.\" What do the numbers \"90,45,30\" represent (in order)?",
+    "content": [
+      "The circle's top point and the diameter",
+      "The circle's bottom point and the radius",
+      "the circle's center coordinates and its radius",
+      "the diameter and the circle’s center coordinates"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is a Web framework? ",
+    "content": [
+      "a method for searching the web",
+      "software tools used in web development",
+      "a protocol used for data transmission",
+      "a deprecated web development method"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following tags is not a block-level HTML element used for page design?",
+    "content": ["<span>", "<header>", "<footer>", "<aside>"],
+    "correct": 0
+  },
+  {
+    "question": "Which two statements accurately describe the differences between HTML and XML?",
+    "content": [
+      "HTML is case sensitive, while XML is not case sensitive. HTML is a display language, while XML is a data storage language. ",
+      "HTML is case sensitive, while XML is not case sensitive. HTML files and XML files have different extensions (.html and .xml).",
+      "HTML is a display language, while XML is a data storage language. HTML can tolerate simple syntax mistakes, while XML does not accept any syntax mistakes. ",
+      "HTML files and XML files have different extensions (.html and .xml). HTML can tolerate simple syntax mistakes, while XML does not accept any syntax mistakes. "
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the attribute of the HTML <a> tag that may have value as a Uniform Resource Locator?",
+    "content": ["hyper", "href", "url", "link"],
+    "correct": 1
+  },
+  {
+    "question": "What property of the Radio object is used to determine if a radio button is selected?",
+    "content": [
+      "the value property",
+      "the checked property",
+      "set its value property to an empty string",
+      "call its blur() method"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which HTML tag is used in tables to specify a cell within a non-header row?",
+    "content": ["<dt>", "<th>", "<td>", "<ht>"],
+    "correct": 2
+  },
+  {
+    "question": "What is the purpose of the CSS standard?",
+    "content": [
+      "Data storage",
+      "Replacement for HTML",
+      "Allows commerce in the WWW",
+      "Simplifies the definition of styles in web pages"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which among the options is an valid CSS rule-set?",
+    "content": [
+      "p { font-family:arial; text-align:right; }",
+      "p { text-align:middle; }",
+      "p { text-align:right; arial; }",
+      "p { text-align:middle; font-family:arial; }"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is JDBC and what is its purpose? ",
+    "content": [
+      "it’s a protocol for transmitting data across the Internet",
+      "a proprietary Microsoft SaaS service",
+      "an API providing access to a database",
+      "a set of tools for middleware development"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which attribute is used with the <input> element to designate the fields that will appear in the form?",
+    "content": [
+      "The type attribute",
+      "The value attribute",
+      "The name attribute",
+      "The action attribute"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The following are examples of what? &euro; &#8364; &#x20AC; &copy; *",
+    "content": [
+      "open-ended HTML tags",
+      "currency codes for international sites",
+      "special HTML character entities",
+      "banking routing codes for online transfers"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which line of code represents a valid way to use an image as a hyperlink, and will validate in an HTML5 page?",
+    "content": [
+      "<a href=\"http://www.ucorp.biz\" img src=\"questions.jpg\" alt=\"Questions\"/> </a>",
+      "<a href=\"http://www.ucorp.biz\"> <img src=\"questions.jpg\" alt=\"Questions\"> </a>",
+      "< img src=\"http://www.ucorp.biz\"> <img \"questions.jpg\" border=\"0\"/> </a>",
+      "<img src=\"questions.jpg\" link=\"http://www.ucorp.biz\" alt=\"Questions\"/> </a>"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is an Application Programming Interface (API)?",
+    "content": [
+      "an interface that defines interactions between multiple software applications",
+      "a method for searching the web",
+      "a software tool used for compiling computer programs",
+      "a search engine for the dark web"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements are true of web images?",
+    "content": [
+      "GIF ﬁles support millions of colors",
+      "JPEG images support interlacing",
+      "PNG is a bitmap-based format",
+      "Only SVG supports transparent backgrounds"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which three options are What You See Is What You Get (WYSIWYG) editors for web pages?",
+    "content": [
+      "Visual Studio, Froala, Notepad++",
+      "Froala, Notepad++, Adobe Dreamweaver",
+      "Visual Studio, Notepad++, Adobe Dreamweaver",
+      "Visual Studio, Froala, Adobe Dreamweaver"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which HTML tag provides elements for acquiring information from the end user in a web form?",
+    "content": [
+      "Body and Radio",
+      "Input and Button",
+      "Body and Input",
+      "Radio and Button"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What happens when an end user clicks on a submit button element of a web form?",
+    "content": [
+      "It creates a new form",
+      "It resets the input elements of the form. ",
+      "It collects the information of the input tags and issues a \"post\" command.",
+      "It redirects the browser to a new web page"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of these options is an API with tree-like structure that defines a way to access and manipulate documents",
+    "content": ["DOM", "DHTML", "<button>", "<table>"],
+    "correct": 0
+  },
+  {
+    "question": "Which of these options is a combination of W3C standards to provide interactivity to web pages",
+    "content": ["DOM", "DHTML", "<button>", "<table>"],
+    "correct": 1
+  },
+  {
+    "question": "Which of these options is an HTML element that allows user interaction in web pages",
+    "content": ["DOM", "<table>", "DHTML", "<button>"],
+    "correct": 3
+  },
+  {
+    "question": "Which HTML element does NOT have a default action associated with the click event?",
+    "content": ["<img>", "<button>", "<input>", "<a>"],
+    "correct": 0
+  },
+  {
+    "question": "Which of these options is an HTML element that provides structured data representation on web pages",
+    "content": ["DOM", "<table>", "<button>", "DHTML"],
+    "correct": 1
+  },
+  {
+    "question": "What is the primary purpose of the document object model (DOM)?",
+    "content": [
+      "Defines documents' logical structure and how they are accessed and manipulated",
+      "Controls the look and feel of a web page",
+      "Uses a bottom-up approach",
+      "Enables dynamic web pages that do not require server processing"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which statement describes the relationship between Dynamic HTML (DHTML) and the Document Object Model (DOM)?",
+    "content": [
+      "The DOM is a standard way to define style configurations for DHTML",
+      "DHTML utilizes a collection of technologies, including the DOM, to control the overall appearance and function of a web page",
+      "DHTML provides a web page with a structure, and the DOM provides a web page with interactivity and animations",
+      "The DOM and DHTML are two distinct languages for both establishing the structure and modifying the look and feel of a web page"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What feature is used to provide tailored access to third-party applications when creating a web page?",
+    "content": [
+      "HTML hyperlinks",
+      "Python",
+      "Graphical user interface (GUI) ",
+      "Web server"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which is not a requirement for web page accessibility? ",
+    "content": [
+      "All non-text content, including Java applets, must provide text-based alternatives",
+      "All images must provide text-based description",
+      "The use of background and foreground colors must provide good contrast",
+      "All forms must be easily readable by screen reading technology"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following are attributes used with the <img> tag? ",
+    "content": [
+      "Dimension and Size",
+      "Dimension and Width",
+      "Size and Height",
+      "Width and Height"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "How do vector-based graphics differ from rasterized graphics?",
+    "content": [
+      "Rasterized images can be altered more easily",
+      "Vector-based graphics are based on components of the image instead of pixels",
+      "Rasterized images are more compact in size",
+      "Vector-based graphics are fee based, while clip art is free"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which laws enforce rules and regulations over web pages around the world?",
+    "content": [
+      "The World Wide Web Consortium mandate",
+      "The US copyright law",
+      "There are no laws covering the rules and regulations over the WWW",
+      "The United Nations regulations"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which phase of the web page lifecycle are HTML and CSS files coded?",
+    "content": ["Design", "Testing", "Implementation", "Requirements Analysis"],
+    "correct": 2
+  },
+  {
+    "question": "Which kind of approach provides security needed for e-commerce web pages?",
+    "content": [
+      "Use of a site map",
+      "HTTPS protocol",
+      "Interface usability concerns during design",
+      "Identification of an e-commerce model"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which phase of the web page life cycle is concerned with deprecated hyperlinks?",
+    "content": ["Maintenance", "Implementation", "Deployment", "Testing"],
+    "correct": 0
+  },
+  {
+    "question": "Which legal concern relates to fair use during website planning?",
+    "content": ["Copyright", "Trademark", "Trade secrets", "Patent"],
+    "correct": 0
+  },
+  {
+    "question": "Why is it important to select an appropriate web page title for your website?",
+    "content": [
+      "Because the web page title tag impacts bandwidth connection for the end user",
+      "Because search engines base search indexing on the web page title",
+      "Because title tags impact the load time of a web page",
+      "Because web page titles are poor syntax"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the difference between web page responsiveness and efficiency?",
+    "content": [
+      "Responsiveness is about the overall performance of a web page, while efficiency is about the use of web form elements in a web page",
+      "Responsiveness is about how a web page displays correctly on different devices, while efficiency is about how quickly a web page is displayed",
+      "Responsiveness is about the smooth display of a web page, while efficiency is about the correct display of a web page in different devices",
+      "None, responsiveness and efficiency in this context are synonyms"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which option is valid for a presentation prototype?",
+    "content": ["Style sheet", "Site map", "Mockup", "Menu tree"],
+    "correct": 2
+  },
+  {
+    "question": "Which language is commonly used as a client-side scripting language in web development?",
+    "content": ["PHP", "Ruby", "Python", "JavaScript"],
+    "correct": 3
+  },
+  {
+    "question": "What is the common approach to provide database connectivity to websites?",
+    "content": [
+      "PostgreSQL DBMS and Python interface",
+      "Oracle Express DBMS and Ruby interface",
+      "MySQL relational DBMS and PHP interface",
+      "Microsoft Access DBMS and ASP.NET interface"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which area of computer science improves creativity to offer a better end user experience with a website?",
+    "content": ["HPC", "NLP", "ML", "HCI"],
+    "correct": 3
+  },
+  {
+    "question": "Which third-party outsource service will always be needed when developing a website?",
+    "content": [
+      "Database server",
+      "Domain name server",
+      "Hosting of server-side applications",
+      "Hosting of HTML/CSS/JS files"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is a common concern when deciding the outsource level for a website?",
+    "content": ["Cost", "Security", "Support", "All of the above"],
+    "correct": 3
+  },
+  {
+    "question": "Which CSS state selectors show uninspected HREFs in red?",
+    "content": [
+      "a:visited { color:red; }",
+      "a:hover { color:red; }",
+      "a:active { color:red; }",
+      "a:link { color:red; }"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which type of address does the hyperlink ../about/map.html point towards?",
+    "content": [
+      "Uniform Resource Identifier (URI)",
+      "Relative Uniform Resource Locator (URL)",
+      "Absolute Uniform Resource Locator (URL)",
+      "Uniform Resource Name (URN)"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which two tags are containers for other tags?",
+    "content": [
+      "<main> and <section>",
+      "<header> and <footer>",
+      "<head> and <body>",
+      "<p> and <h1>"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which term describes the process of adding a pair of tags within another pair of tags?",
+    "content": ["Nesting", "Embedding", "Indenting", "Formatting"],
+    "correct": 0
+  },
+  {
+    "question": "Which multimedia technology did popular video sharing sites replace with Motion Picture Experts Group-4 (MP4) to address security concerns?",
+    "content": ["Flash", "WAV", "Ogg>", "WebM"],
+    "correct": 0
+  },
+  {
+    "question": "Which graphical image type scales without losing image quality?",
+    "content": ["Bitmap", "Vector", "JPEG", "PNG"],
+    "correct": 1
+  },
+  {
+    "question": "Which directive overrides normal cascading in CSS? ",
+    "content": ["/*!Overwrite*/", "!Important", "Important!", "/*Overwrite!*/"],
+    "correct": 1
+  },
+  {
+    "question": "Which value of the opacity property in CSS3, represents completely opaque? ",
+    "content": ["0.00", "1.00", "0.10", "1.10"],
+    "correct": 1
+  },
+  {
+    "question": "Which request method should be used in a form to append parameters into a query string?",
+    "content": ["Post", "Put", "Get", "Patch"],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following embeds formatting information into a document to instruct an interpreter how to render text?",
+    "content": ["Hyperlinks", "The <body> tag", "Markup tags", "Attributes"],
+    "correct": 2
+  },
+  {
+    "question": "Which element is used to incorporate an external CSS3 file into an HTML document?",
+    "content": ["link", "CSS3", "id", "align"],
+    "correct": 0
+  },
+  {
+    "question": "When is it necessary to use a fully qualified URL?",
+    "content": [
+      "When using an image as a link",
+      "When linking to an external site",
+      "When linking to another location on the same site",
+      "When accessing a file's internal link"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Site validation should be performed",
+    "content": [
+      "once at the end of the development cycle",
+      "once at the middle of the development cycle and once again at the end",
+      "only when site accessibility issues become a concern during the development cycle",
+      "multiple times throughout the development cycle"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which element provides document structure with HTML5?",
+    "content": ["sidebar", "container", "div=\"align\"", "article"],
+    "correct": 3
+  },
+  {
+    "question": "Which element is used to create hyperlinks that connect Webpages to other files on the Internet or to text within the same page?",
+    "content": ["<a>", "<href>", "<head>", "<link>"],
+    "correct": 0
+  },
+  {
+    "question": "After you have obtained relevant input for your Website, you can create:",
+    "content": ["a validation program", "a storyboard", "HTML", "images"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following table elements specifies cell content?",
+    "content": ["<th>", "<table>", "<tr>", "<td>"],
+    "correct": 3
+  },
+  {
+    "question": "When using inline CSS3, which of the following attributes provides values such as background color?",
+    "content": ["style", "background-color", "page-format", "format"],
+    "correct": 0
+  },
+  {
+    "question": "In which element would you include the border=\"1\" attribute and value to add a table border?",
+    "content": ["<tr>", "<table>", "<th>", "<td>"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a drawback of client-side scripting?",
+    "content": [
+      "The code only works on Microsoft browsers",
+      "The code only works if it is placed on a server",
+      "The code relies upon the client's interpreter",
+      "The code relies upon the HTML implementation"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What term is used to describe the study of visitor behavior once that visitor has accessed your site?",
+    "content": [
+      "Off-site analytics",
+      "Internal demographic analytics",
+      "On-site analytics",
+      "Target marketing analytics"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Prior to HTML5, how were video and audio files embedded and played within Websites?",
+    "content": ["Plug-ins", "Flash", "<video> element", "Silverlight"],
+    "correct": 0
+  },
+  {
+    "question": "Which type of program should you choose with limited application features that will automatically write HTML code for you and cost less than other applications that has more organization features or workflow integration with other applications?",
+    "content": [
+      "Text editor",
+      "Webpage editor",
+      "Web server",
+      "Site management editor"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which attribute is used by the <input> element to designate a text box, a radio button, a Submit or Reset button, a password field, or a check box?",
+    "content": ["size", "name", "type", "value"],
+    "correct": 2
+  },
+  {
+    "question": "Which site management editor feature displays link hierarchies of the target Webpages?",
+    "content": [
+      "Import Webpages",
+      "Hypertext links",
+      "Inline images",
+      "Icon bars"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the purpose of SSL/TLS in an e-commerce transaction?",
+    "content": [
+      "It encrypts data transmissions so private information remains private",
+      "It mediates an authentication process between the requisitioner and the payment authority",
+      "It provides a universal data-formatting method, known as a merchant system",
+      "It controls inventory of raw materials from upstream providers to manage supply chain"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is a reason for choosing a GUI editor to create a Webpage?",
+    "content": [
+      "GUI editors often modify code that is entered manually",
+      "You will always be using the most up-to-date version of HTML",
+      "Typing code teaches you HTML fundamentals",
+      "You can create Webpages by simply clicking your mouse"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is the best way to center a <video> element window within an HTML5 Webpage?",
+    "content": [
+      "width and height attributes",
+      "div align=\"center\"",
+      "video class",
+      "<video> element"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What type of error usually indicates that your browser does not support a specific DOM?",
+    "content": [
+      "HTTP 404 Error – File Not Found",
+      "Write Error",
+      "Undefined Object Error",
+      "DOM Error"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The concept of Webpage branding standards refers to",
+    "content": [
+      "how a Webpage's layout, content and design elements complement an organization's business concerns and marketing goals",
+      "the subtle variations in the ways that different browsers display the Webpage",
+      "the way a Webpage performs across a network so that all end users can access it using any commercially available browser",
+      "how well a Webpage conforms to industry standards"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which codec is required for MP4 videos to render properly in an HTML5 browser that supports it?",
+    "content": ["VP8", "H.264", "WebM", "Theora"],
+    "correct": 1
+  },
+  {
+    "question": "What technology refers to hosted applications and services offered by a third party?",
+    "content": [
+      "Mobile applications",
+      "Ajax",
+      "Cloud computing",
+      "Scalability"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What are the three audio formats supported by the HTML5 <audio> element?",
+    "content": [
+      ".mp3, .aac, .wav",
+      "mp3, .wma, .ogg",
+      ".mp3, .wav, .aiff",
+      ".mp3, .wav, .ogg"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is a CSS property?",
+    "content": ["body", "lightblue", "background-color", "{}"],
+    "correct": 2
+  },
+  {
+    "question": "Which CSS3 property can you use to specify transparency in a background image?",
+    "content": ["cover", "percentage", "opacity", "transparency"],
+    "correct": 2
+  },
+  {
+    "question": "Which optional CSS property can you use to make text in an area appear more bold?",
+    "content": ["font-size", "font-style", "font-stretch", "font-weight"],
+    "correct": 3
+  },
+  {
+    "question": "Which property can be used to center table data vertically?",
+    "content": [
+      "vertical-align",
+      "vlign",
+      "text-align:vertical",
+      "table-data:vertical-align"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which <a> element attribute and value creates a hyperlink to a defined internal bookmark?",
+    "content": [
+      "name=\"TargetArea\"",
+      "href=\"#TargetArea\"",
+      "internal=\"#TargetArea\"",
+      "bookmark=\"TargetArea\""
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which button, when clicked, causes a form's action statement to process?",
+    "content": ["Reset button", "Submit button", "Check box", "Radio button"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the best reason for learning HTML code?",
+    "content": [
+      "Text editors are simple to use and require no training",
+      "You can enhance the functionality of your Webpages with scripting languages",
+      "You do not need to learn code to create a Website with advanced functionality",
+      "Text editors place the code into files for you"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following file names could represent the default document for a cat fancier's Website in most Web servers?",
+    "content": ["index.html", "kitty.home", "default.index", "kitty.htm"],
+    "correct": 0
+  },
+  {
+    "question": "As a general rule, what is the maximum size your Webpage should be?",
+    "content": ["50 KB", "500 KB", "1 MB", "100 KB"],
+    "correct": 3
+  },
+  {
+    "question": "Which protocol is most often used to publish a Website to a remote Web host?",
+    "content": ["SMTP", "SNMP", "FTP", "NNTP"],
+    "correct": 2
+  },
+  {
+    "question": "While creating a Website, you include code in your HTML file that specifies several \"hot spot\" areas on an image, each of which links to another page. What have you just created?",
+    "content": [
+      "An interlaced image",
+      "A transparent image",
+      "An image map",
+      "An animated image"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which attribute must you include in the <form> tag to specify the location and name of the script that will process form data?",
+    "content": ["action", "method", "type", "name"],
+    "correct": 0
+  },
+  {
+    "question": "Which form field offers square option buttons in a group of two or more options?",
+    "content": ["Select", "Check box", "Radio button", "Text box"],
+    "correct": 1
+  },
+  {
+    "question": "To use an image as the link to another file, you would",
+    "content": [
+      "place the anchor attribute inside an image tag",
+      "place the image attribute inside an anchor tag",
+      "add an anchor tag around an image tag",
+      "add an image tag around an anchor tag"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Transparency, interlacing and animation are all techniques supported by which image file format?",
+    "content": ["JPEG", "BMP", "GIF 87a", "PNG"],
+    "correct": 3
+  },
+  {
+    "question": "Which CSS3 property controls the color of a link before it has been visited?",
+    "content": ["a:visited", "vlink", "a:link ", "link"],
+    "correct": 2
+  },
+  {
+    "question": "Which tag could you use to add a brief summary of your markup page's contents for display in browser search results?",
+    "content": ["<head>", "<body>", "<meta>", "<html>"],
+    "correct": 2
+  },
+  {
+    "question": "What type of HTML element will affect at least an entire paragraph of page content?",
+    "content": [
+      "A text-level element",
+      "A paragraph-level element",
+      "A content-level element",
+      "A block-level element"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following characteristics is an important element of an accessible Webpage?",
+    "content": [
+      "The page should have alternative text for images.",
+      "The page should have at least one image per three square inches of space",
+      "The page should use only primary colors to ensure that it will display well on all browsers",
+      "The page's text should read like a book, with an introduction, a body and a conclusion."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What version of HTML introduced CSS?",
+    "content": ["HTML 3.2", "HTML 4.0", "XHTML", "HTML5"],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is used with the HTML5 <video> element to identify the location and file name of the media resource?",
+    "content": [
+      "The type attribute ",
+      "The src attribute",
+      "The <source> element",
+      "The <audio> element"
+    ],
+    "correct": 1
+  }
+]
