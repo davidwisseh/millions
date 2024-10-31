@@ -168,7 +168,12 @@ const MillionaireGame = () => {
   if (gameState === "start") {
     return (
       <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-blue-500 to-purple-600 text-white p-4">
-        <Image src={millionaireIcon} width={450} height={450} />
+        <Image
+          src={millionaireIcon}
+          width={450}
+          height={450}
+          alt="Who wants to be a millionaire logo"
+        />
 
         <Button onClick={initializeGame} size="lg" className="text-xl">
           Start Game
