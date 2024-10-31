@@ -1,9 +1,9 @@
 "use client";
 import { Button } from "@/components/ui/button";
 import { HelpCircle, LifeBuoy, X } from "lucide-react";
-import { useCallback, useEffect, useState } from "react";
-import QUESTIONS_DATA from "../questions.json";
 import Image from "next/image";
+import { useCallback, useState } from "react";
+import QUESTIONS_DATA from "../questions.json";
 import millionaireIcon from "./millionaire.png";
 const PRIZE_TIERS = [
   { amount: "$100", safe: false },
