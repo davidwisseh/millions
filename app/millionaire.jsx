@@ -2,7 +2,7 @@
 import { Button } from "@/components/ui/button";
 import { HelpCircle, LifeBuoy, X } from "lucide-react";
 import Image from "next/image";
-import { useCallback, useState } from "react";
+import { useCallback, useRef, useState } from "react";
 import QUESTIONS_DATA from "../questions.json";
 import millionaireIcon from "./millionaire.png";
 const PRIZE_TIERS = [
@@ -24,6 +24,9 @@ const PRIZE_TIERS = [
 ].reverse();
 
 const MillionaireGame = () => {
+  const selectedQuestions = useRef();
+  const emptyArr = new Array(Math.floor(QUESTIONS_DATA.length / 15)).fill(0);
+  console.log(QUESTIONS_DATA.length);
   const [questions, setQuestions] = useState([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
@@ -47,7 +50,17 @@ const MillionaireGame = () => {
 
   const initializeGame = useCallback(() => {
     const allQuestions = QUESTIONS_DATA;
-    const randomQuestions = shuffleArray(allQuestions).slice(0, 15);
+    let randomQuestions = null;
+    if (selectedQuestions.current.value == "Random") {
+      randomQuestions = shuffleArray(allQuestions).slice(0, 15);
+    }
+    if (Number(selectedQuestions.current.value) > emptyArr.length) {
+      return;
+    }
+    if (!randomQuestions) {
+      const end = emptyArr.length * Number(selectedQuestions.current.value);
+      randomQuestions = allQuestions.slice(end - emptyArr.length, end);
+    }
 
     setQuestions(randomQuestions);
     setCurrentQuestionIndex(0);
@@ -174,7 +187,21 @@ const MillionaireGame = () => {
           height={450}
           alt="Who wants to be a millionaire logo"
         />
-
+        <label htmlFor="Questions">
+          Select question set or Get random questions
+        </label>
+        <select
+          className="text-black mb-3"
+          id="Questions"
+          ref={selectedQuestions}
+        >
+          <option value={"Random"}>Random</option>;
+          {emptyArr.map((val, i) => (
+            <option key={i} value={`${i + 1}`}>
+              {i + 1}
+            </option>
+          ))}
+        </select>
         <Button onClick={initializeGame} size="lg" className="text-xl">
           Start Game
         </Button>

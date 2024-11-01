@@ -65,6 +65,11 @@
     "correct": 1
   },
   {
+    "question": "What version of HTML introduced CSS?",
+    "content": ["HTML 3.2", "HTML 4.0", "XHTML", "HTML5"],
+    "correct": 1
+  },
+  {
     "question": "What is true of the Semantic Web?",
     "content": [
       "its standards promote common data formats and exchange protocols",
@@ -1290,6 +1295,16 @@
     "correct": 0
   },
   {
+    "question": "Which of the following <video> formats are supported in HTML5?",
+    "content": [
+      "Quicktime and AVI",
+      "JPEG2000 and SVG",
+      "Ogg, webM, and MP4",
+      "Ogg, wav, MP4"
+    ],
+    "correct": 2
+  },
+  {
     "question": "Which form field offers square option buttons in a group of two or more options?",
     "content": ["Select", "Check box", "Radio button", "Text box"],
     "correct": 1
@@ -1317,6 +1332,16 @@
   {
     "question": "Which tag could you use to add a brief summary of your markup page's contents for display in browser search results?",
     "content": ["<head>", "<body>", "<meta>", "<html>"],
+    "correct": 2
+  },
+  {
+    "question": "What term is used to describe the study of visitor behavior once that visitor has accessed your site?",
+    "content": [
+      "Off-site analytics",
+      "Internal demographic analytics",
+      "On-site analytics",
+      "Target marketing analytics"
+    ],
     "correct": 2
   },
   {
